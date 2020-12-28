@@ -38,7 +38,7 @@ Please read the FAQ section before continuing to look over the installation inst
       - Processor: Intel i5, Intel i7 or equivalent and above. 
       - RAM: at least 8GB (16GB or more recommended for remote work)
       - Storage: 128GB or more available storage
-      - compatible with Windows 10 version 1903 or later. (see installation instructions to check compatibility)
+      - Released in the last 4 years
    - Most Macbook Pro configurations will meet these requirements. You can also ask around if you're curious about other Campers' set-ups! Some campers also use Macbook Air computers with these specs, too! :)
 
 - *Can I use a chromebook at freeCodeCamp SF?*
