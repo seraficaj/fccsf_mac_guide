@@ -9,7 +9,6 @@
 Based on discussion within our chapter's membership, we agreed that there needed to be a resource for setting up one's own computer for web development outside of the in-browser workspaces that freeCodeCamp provides early in the curriculum. Setting up a working dev environment is important for success later in the full-stack certifications. This guide will help you set up your Mac computer to fully participate in our chapter's activities and your own learning.
 
 ## What will be installed on my computer?
-- Ubuntu Terminal
 - Zsh (with Oh-My-Zsh configuration)
 - VSCode (+ some optional helpful extensions)
 - Git
