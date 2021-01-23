@@ -40,9 +40,18 @@ Please read the FAQ section before continuing to look over the installation inst
       - Released in the last 4 years
    - Most Macbook Pro configurations will meet these requirements. You can also ask around if you're curious about other Campers' set-ups! Some campers also use Macbook Air computers with these specs, too! :)
 
+- *Why are we installing Django instead of Flask (or other web development frameworks like Ruby on Rails, Meteor.js, etc.)?*
+   - We include installation instructions for Django because it is a popular web development framework using Python. It is also an opinionated framework, so it is a good counterpoint to unopinionated frameworks used in our resources like Express.js. You are welcome to install other tech stacks you are interested in learning.
+
 - *Can I use a chromebook at freeCodeCamp SF?*
    - You can definitely get through the very early parts of the front-end and full-stack certifications on freeCodeCamp.org using a chromebook. In fact, some of the early front-end projects will be coded entirely on online workspaces like codepen.io. However, the curriculum will quickly become difficult if you are not able to move away from freeCodeCamp's in-browser workspaces and start working with the back-end or using front-end libraries like React or Vue.
    - We recommend getting a Linux, Mac OS, WSL computer as soon as possible to establish a working dev environment for yourself. You will need a fully-featured operating system to practice controlling your computer with the command line and using professional development tools and systems like Git or a code editor. There are guides to setting up a dev environment on chromebooks, but we haven't many of them to be friendly to beginners. For this reason, we recommend following this installation guide.
 
 ## Ready to get started?
 - Click this link for the first set of installation instructions!
+## Ready to get started?
+- Click through the links below installation instructions!
+* [ ] [Command Line](command-line-setup.md)
+* [ ] [Installing Git](git-installation.md)
+* [ ] [Databases and Frameworks](db-frameworks.md)
+* [ ] [Desktop Applications](desktop-applications.md)
