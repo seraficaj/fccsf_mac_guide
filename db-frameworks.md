@@ -51,6 +51,12 @@ Install Django using pip3:
 If you receive a permissions error, try running this instead:
 `pip3 install --user Django`
 
+## Heroku CLI for Deployment
+
+run: `brew tap heroku/brew && brew install heroku` 
+
+then, confirm installation with `heroku open` or `heroku apps`
+
 ## Next steps...
 * [X] [Command Line](command-line-setup.md)
 * [X] [Installing Git](git-installation.md)
